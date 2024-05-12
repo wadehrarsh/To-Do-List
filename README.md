@@ -1,4 +1,4 @@
-# Todo List Project
+# Todo List - HTML CSS JAVASCRIPT
 
 This is a simple Todo List web application built using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
 
